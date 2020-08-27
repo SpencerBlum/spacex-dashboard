@@ -10,6 +10,7 @@
     "react-countdown-now": "^2.1.2",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
+    "react-google-charts": "^3.0.15",
     "react-scripts": "3.4.3",
     "react-simple-maps": "^2.1.2"
   },

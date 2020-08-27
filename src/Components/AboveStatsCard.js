@@ -4,8 +4,8 @@ import CountUp from 'react-countup';
 const AboveStatsCard = (props) => {
 
     return (
-        <div className= "stats-card">
-            <h2>
+        <div className= "">
+            <h2 className = "stats-card-title">
                 {props.cardTitle}
             </h2>
             <p className = "stats-card-num-p">  
