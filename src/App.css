@@ -133,13 +133,3 @@ body {
   font-size: 10px;
 }
 
-
-rect[Attributes Style] {
-  x: 0;
-  y: 0;
-  width: 500;
-  height: 300;
-  stroke: none;
-  stroke-width: 0;
-  fill:  #000; 
-}
